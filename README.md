@@ -69,6 +69,12 @@ Innovation and Growth: By being part of this talent pool, I am now poised to dri
 
 
 
+# 🏆 ISWDP Level 1: First Cut Design Curriculum (10-Day Extended)
+
+This 10-day extended curriculum delves into the foundational concepts of semiconductor devices and the complete Technology Computer-Aided Design (TCAD) flow, broken down for granular learning and retention.
+
+---
+
 ## 🧭 Day-Wise Navigation (Clickable)
 
 | Day     | Focus Area |
@@ -87,71 +93,96 @@ Innovation and Growth: By being part of this talent pool, I am now poised to dri
 ---
 
 ## 📘 Day 1: Core Semiconductor Physics & Materials
+
 ### Module: The Material Foundation
-- [1.1 Intrinsic and Extrinsic Semiconductors](#11-intrinsic-and-extrinsic-semiconductors)
-- [1.2 Energy Band Diagrams](#12-energy-band-diagrams)
-- [1.3 Carrier Statistics: Fermi-Dirac Distribution](#13-carrier-statistics-fermi-dirac-distribution)
-- [1.4 Carrier Transport Mechanisms](#14-carrier-transport-mechanisms)
+- 1.1 Intrinsic and Extrinsic Semiconductors
+- 1.2 Energy Band Diagrams
+- 1.3 Carrier Statistics: Fermi-Dirac Distribution
+- 1.4 Carrier Transport Mechanisms
+
+---
 
 ## 📘 Day 2: Device Concepts & TCAD Introduction
+
 ### Module: Bridging Theory to Simulation
-- [2.1 Basic Device Structures (Diode, BJT, MOSFET)](#21-basic-device-structures-diode-bjt-mosfet)
-- [2.2 What is TCAD and Its Value?](#22-what-is-tcad-and-its-value)
-- [2.3 TCAD as a DTCO Enabler (Design Technology Co-Optimization)](#23-tcad-as-a-dtco-enabler-design-technology-co-optimization)
+- 2.1 Basic Device Structures (Diode, BJT, MOSFET)
+- 2.2 What is TCAD and Its Value?
+- 2.3 TCAD as a DTCO Enabler (Design Technology Co-Optimization)
+
+---
 
 ## 📘 Day 3: Sentaurus Workbench (SWB) Environment & Setup
+
 ### Module: Project Management and Simulation Flow
-- [3.1 SWB Graphical User Interface (GUI) Navigation](#31-swb-graphical-user-interface-gui-navigation)
-- [3.2 Setting Up a New TCAD Project](#32-setting-up-a-new-tcad-project)
-- [3.3 Understanding the Integrated Tool Flow](#33-understanding-the-integrated-tool-flow)
+- 3.1 SWB Graphical User Interface (GUI) Navigation
+- 3.2 Setting Up a New TCAD Project
+- 3.3 Understanding the Integrated Tool Flow
+
+---
 
 ## 📘 Day 4: Initial Tool Flow & Basic Scripting
+
 ### Module: Command Line and Automation
-- [4.1 Introduction to Input Decks](#41-introduction-to-input-decks)
-- [4.2 Basic Tcl/Scheme Scripting Syntax](#42-basic-tclscheme-scripting-syntax)
-- [4.3 Parameterizing Simulations (Variables)](#43-parameterizing-simulations-variables)
-- [4.4 Running and Monitoring Simple Jobs](#44-running-and-monitoring-simple-jobs)
+- 4.1 Introduction to Input Decks
+- 4.2 Basic Tcl/Scheme Scripting Syntax
+- 4.3 Parameterizing Simulations (Variables)
+- 4.4 Running and Monitoring Simple Jobs
+
+---
 
 ## 📘 Day 5: 2D Geometric Modeling (Sentaurus Structure Editor)
+
 ### Module: Building the Physical Layout (Part I)
-- [5.1 Sentaurus Structure Editor (SSE) GUI](#51-sentaurus-structure-editor-sse-gui)
-- [5.2 Creating Basic Rectangular and Polygonal Regions](#52-creating-basic-rectangular-and-polygonal-regions)
-- [5.3 Defining Material Properties](#53-defining-material-properties)
+- 5.1 Sentaurus Structure Editor (SSE) GUI
+- 5.2 Creating Basic Rectangular and Polygonal Regions
+- 5.3 Defining Material Properties
+
+---
 
 ## 📘 Day 6: Advanced Structure Definition: Doping, Contacts, and Meshing
+
 ### Module: Finalizing the Device Model (Part II)
-- [6.1 Defining Electrical Contacts (Source, Drain, Gate)](#61-defining-electrical-contacts-source-drain-gate)
-- [6.2 Implementing Doping Profiles](#62-implementing-doping-profiles)
-- [6.3 Introduction to Meshing (Sentaurus Mesh)](#63-introduction-to-meshing-sentaurus-mesh)
-- [6.4 Adaptive Mesh Refinement in Critical Regions](#64-adaptive-mesh-refinement-in-critical-regions-junctions-interfaces)
+- 6.1 Defining Electrical Contacts (Source, Drain, Gate)
+- 6.2 Implementing Doping Profiles
+- 6.3 Introduction to Meshing (Sentaurus Mesh)
+- 6.4 Adaptive Mesh Refinement in Critical Regions (Junctions, Interfaces)
+
+---
 
 ## 📘 Day 7: Sentaurus Device Setup & P-N Junction Simulation
+
 ### Module: Activating the Device
-- [7.1 Introduction to Sentaurus Device (Sdevice)](#71-introduction-to-sentaurus-device-sdevice)
-- [7.2 Selecting Appropriate Physical Models](#72-selecting-appropriate-physical-models-eg-drift-diffusion-recombination)
-- [7.3 P-N Junction Diode DC Simulation](#73-p-n-junction-diode-dc-simulation-forward-and-reverse-bias)
-- [7.4 BJT I-V Characteristic Simulation](#74-bjt-i-v-characteristic-simulation)
+- 7.1 Introduction to Sentaurus Device (Sdevice)
+- 7.2 Selecting Appropriate Physical Models (e.g., Drift-Diffusion, Recombination)
+- 7.3 P-N Junction Diode DC Simulation (Forward and Reverse Bias)
+- 7.4 BJT I-V Characteristic Simulation
+
+---
 
 ## 📘 Day 8: Planar MOSFET Simulation Setup
+
 ### Module: Core CMOS Device Modeling
-- [8.1 MOSFET Structure Review and Operating Modes](#81-mosfet-structure-review-and-operating-modes)
-- [8.2 Setting Up the DC Voltage Sweep for I_D vs. V_GS](#82-setting-up-the-dc-voltage-sweep-for-i_d-vs-v_gs)
-- [8.3 Setting Up the DC Voltage Sweep for I_D vs. V_DS](#83-setting-up-the-dc-voltage-sweep-for-i_d-vs-v_ds)
-- [8.4 Initial Run and Troubleshooting](#84-initial-run-and-troubleshooting)
+- 8.1 MOSFET Structure Review and Operating Modes
+- 8.2 Setting Up the DC Voltage Sweep for I<sub>D</sub> vs. V<sub>GS</sub>
+- 8.3 Setting Up the DC Voltage Sweep for I<sub>D</sub> vs. V<sub>DS</sub>
+- 8.4 Initial Run and Troubleshooting
+
+---
 
 ## 📘 Day 9: Results Visualization & Internal Analysis (Sentaurus Visual)
+
 ### Module: Interpreting the Simulation Data
-- [9.1 Sentaurus Visual (SVisual) Interface](#91-sentaurus-visual-svisual-interface)
-- [9.2 2D/3D Structure and Mesh Plotting](#92-2d3d-structure-and-mesh-plotting)
-- [9.3 Contour Plotting of Physical Variables](#93-contour-plotting-of-physical-variables-eg-electric-field-potential)
-- [9.4 Using Cutlines for Profile Analysis](#94-using-cutlines-for-profile-analysis-doping-electric-field)
+- 9.1 Sentaurus Visual (SVisual) Interface
+- 9.2 2D/3D Structure and Mesh Plotting
+- 9.3 Contour Plotting of Physical Variables (e.g., Electric Field, Potential)
+- 9.4 Using Cutlines for Profile Analysis (Doping, Electric Field)
+
+---
 
 ## 📘 Day 10: Parameter Extraction & Reporting
+
 ### Module: Quantification and Completion
-- [10.1 Key MOSFET Parameter Definitions](#101-key-mosfet-parameter-definitions)
-- [10.2 Threshold Voltage (V_th) Extraction Methods](#102-threshold-voltage-v_th-extraction-methods)
-- [10.3 On-Current (I_on) and Off-Current (I_off) Calculation](#103-on-current-i_on-and-off-current-i_off-calculation)
-- [10.4 Final Project Review and Q&A](#104-final-project-review-and-module-completion)
-
-
-
+- 10.1 Key MOSFET Parameter Definitions
+- 10.2 Threshold Voltage (V<sub>th</sub>) Extraction Methods
+- 10.3 On-Current (I<sub>on</sub>) and Off-Current (I<sub>off</sub>) Calculation
+- 10.4 Final Project Review and Module Completion
