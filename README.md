@@ -185,4 +185,4 @@ This 10-day extended curriculum delves into the foundational concepts of semicon
 - 10.1 Key MOSFET Parameter Definitions
 - 10.2 Threshold Voltage (V<sub>th</sub>) Extraction Methods
 - 10.3 On-Current (I<sub>on</sub>) and Off-Current (I<sub>off</sub>) Calculation
-- 10.4 Final Project Review and Module Completion
+- 10.4 Final Project
